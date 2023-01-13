@@ -111,7 +111,7 @@ height: 117px;
     }
      .players{
         grid-template-columns: repeat(1,1fr);
-        background-color: #562EFF
+        
 
      }
      .player{
